@@ -1,36 +1,407 @@
-[{
-        "service": "service_A",
-        "hostname": "ghhrand-transport.com",
+[
+    {
+        "service": "public",
+        "hostname": "airdimensions.com",
         "environment": "prod"
     },
     {
-        "service": "service_B",
-        "hostname": "hoffmanandlamson.com",
+        "service": "public",
+        "hostname": "airmaxgroupe.fr",
         "environment": "prod"
     },
     {
-        "service": "service_C",
-        "hostname": "ingersollrand.com",
+        "service": "public",
+        "hostname": "albinpump.com",
         "environment": "prod"
     },
     {
-        "service": "external",
-        "hostname": "powertools.ingersollrand.com",
+        "service": "public",
+        "hostname": "arozone.com",
         "environment": "prod"
     },
     {
-        "service": "external",
-        "hostname": "thomaspumps.com",
+        "service": "public",
+        "hostname": "a-und-f.net",
         "environment": "prod"
     },
     {
-        "service": "external",
+        "service": "public",
+        "hostname": "bellissandmorcom.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "broomwade.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "championairtech.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "championpneumatic.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "compair.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "controlledfluidics.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "delairproducts.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "deltechair.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "dosatron.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "dvsystems.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "elewout.nl",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "elmorietschle.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "emcowheaton.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "ethafilter.it",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "everestblowers.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
         "hostname": "flexan.com",
         "environment": "prod"
     },
     {
-        "service": "external_1",
-        "hostname": "a-und-f.net",
+        "service": "public",
+        "hostname": "fraserwoods.ca",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "friulair.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "fruitlandmanufacturing.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "gardnerdenver.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "garocompressors.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "gdturbo.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "ghhrand-transport.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "gieffesystems.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "hankisonair.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "hartell.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "haskel.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "hibon.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "hingerose.co.uk",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "hoffmanandlamson.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "holtecllc.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "hppumps.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "hydrovaneproducts.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "ibsblowers.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "ilcdover.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "ingersollrand.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "irco.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "irco.com.cn",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "jemacoair.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "jorc.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "kl-offshore.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "lawrence-factor.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "leroigas.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "liftingsolutions.ingersollrand.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "lmipumps.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "makocompressors.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "maximus-solution.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "md-kinney.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "microsyringes.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "miltonroy.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "mkl.no",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "mppumps.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "nashpumps.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "oberdorferpumps.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "okotechnik.hu",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "omi-italy.it",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "oxywise.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "paragondirect.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "pedrogil.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "pneumaticproducts.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "powertools.ingersollrand.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "reavell.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "robuschi.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "rootsblower.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "runtechsystems.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "seepex.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "thomaspumps.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "todocouplings.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "toshniwalvacuumpumps.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "tricontinent.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "welchvacuum.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "williamspumps.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "wittigsystems.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "yzsystems.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "zeks.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "zinsser-analytic.com",
         "environment": "prod"
     }
 ]
