@@ -1,4 +1,6 @@
 # SSL Certificate Expiry Checker
+This is fork version of https://github.com/MertSenel/ssl-certificate-expiry-checker
+
 
 **Track Your SSL Certificate Expiry Dates via CI/CD Pipelines**
 <img src="docs/SSLCertificateExpiryTracker.png" alt="SSLCertificateExpiryTracker"/>
