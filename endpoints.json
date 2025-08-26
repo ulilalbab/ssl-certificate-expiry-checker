@@ -1,36 +1,36 @@
 [{
         "service": "service_A",
-        "hostname": "azure.microsoft.com",
+        "hostname": "ghhrand-transport.com",
         "environment": "prod"
     },
     {
         "service": "service_B",
-        "hostname": "httpbin.org",
+        "hostname": "hoffmanandlamson.com",
         "environment": "prod"
     },
     {
         "service": "service_C",
-        "hostname": "github.com",
+        "hostname": "ingersollrand.com",
         "environment": "prod"
     },
     {
         "service": "external",
-        "hostname": "www.google.com",
+        "hostname": "powertools.ingersollrand.com",
         "environment": "prod"
     },
     {
         "service": "external",
-        "hostname": "www.facebook.com",
+        "hostname": "thomaspumps.com",
         "environment": "prod"
     },
     {
         "service": "external",
-        "hostname": "www.microsoft.com",
+        "hostname": "flexan.com",
         "environment": "prod"
     },
     {
         "service": "external",
-        "hostname": "stackoverflow.com",
+        "hostname": "a-und-f.net",
         "environment": "prod"
     }
 ]

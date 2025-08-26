@@ -38,7 +38,7 @@ jobs:
           ./check-ssl-expiry.ps1
 
       - name: Upload Build Artifacts
-        uses: actions/upload-artifact@v3.1.1
+        uses: actions/upload-artifact@v4.6.2
         with:
           # Artifact name
           name: SSL Expiry Custom HTML Report
