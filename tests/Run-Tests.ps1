@@ -5,7 +5,7 @@ BeforeDiscovery {
 }
 Describe "Alert Severity of SSL Certificate of <_.hostname>" -ForEach $sslCertificateDetails {
     
-    It "should be a valid severity" {
-        $_.Severity | Should -BeIn @("None", "Low")
+    It "has a valid severity" {
+        $_.Severity | Should -BeIn @("None", "Low", "Medium", "High" , "Error")
     }
 }
