@@ -16,6 +16,11 @@
     },
     {
         "service": "public",
+        "hostname": "apscopower.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
         "hostname": "arozone.com",
         "environment": "prod"
     },
@@ -342,6 +347,11 @@
     {
         "service": "public",
         "hostname": "rootsblower.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
+        "hostname": "rotodelpump.com",
         "environment": "prod"
     },
     {
