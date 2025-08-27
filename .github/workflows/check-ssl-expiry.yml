@@ -13,9 +13,9 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-  # 06:00 UTC makes 12pm WIB on Weekdays Mon,Tue,Wed,Thu,Fri
+  # 04:00 UTC makes 12pm WIB on Weekdays Mon,Tue,Wed,Thu,Fri
   schedule:
-    - cron: 0 6 * * 1,2,3,4,5
+    - cron: 0 4 * * 1,2,3,4,5
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:

@@ -7,7 +7,7 @@ trigger:
         - '*'
 
 schedules:
-- cron: "0 6 * * Mon,Tue,Wed,Thu,Fri"  # 06:00 UTC makes 12pm WIB on Weekdays
+- cron: "0 4 * * Mon,Tue,Wed,Thu,Fri"  # 04:00 UTC makes 12pm WIB on Weekdays
   displayName: Daily build Weekdays
   branches:
     include:
