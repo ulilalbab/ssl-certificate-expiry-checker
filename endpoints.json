@@ -2,421 +2,421 @@
     {
         "service": "public",
         "hostname": "airdimensions.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "airmaxgroupe.fr",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "albinpump.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "apscopower.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "arozone.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "a-und-f.net",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "bellissandmorcom.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "broomwade.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "championairtech.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "championpneumatic.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "compair.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "controlledfluidics.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
-        "hostname": "delairprducts.com",
-        "environment": "prd"
+        "hostname": "delairproducts.com",
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "deltechair.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "dosatron.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "dvsystems.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "elewout.nl",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "elmorietschle.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "emcowheaton.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "ethafilter.it",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "everestblowers.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "flexan.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "fraserwoods.ca",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "friulair.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "fruitlandmanufacturing.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "gardnerdenver.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "garocompressors.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "gdturbo.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "gdtransportsolutions.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "ghhrand-transport.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "gieffesystems.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "hankisonair.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "hartell.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "haskel.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "hibon.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "hingerose.co.uk",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "hoffmanandlamson.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "holtecllc.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "hppumps.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
-        "hostname": "hydrovaneprducts.com",
-        "environment": "prd"
+        "hostname": "hydrovaneproducts.com",
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "ibsblowers.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "ilcdover.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "ingersollrand.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "irco.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "irco.com.cn",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "jemacoair.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "jorc.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "kl-offshore.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "lawrence-factor.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "leroigas.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "liftingsolutions.ingersollrand.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "lmipumps.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "makocompressors.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "maximus-solution.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "md-kinney.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "microsyringes.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "miltonroy.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "mkl.no",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "mppumps.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "nashpumps.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "oberdorferpumps.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "okotechnik.hu",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "omi-italy.it",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "oxywise.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "paragondirect.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "pedrogil.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
-        "hostname": "pneumaticprducts.com",
-        "environment": "prd"
+        "hostname": "pneumaticproducts.com",
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "powertools.ingersollrand.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "reavell.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "robuschi.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "rootsblower.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "rotodelpump.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "runtechsystems.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "seepex.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "thomaspumps.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "todocouplings.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "toshniwalvacuumpumps.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "tricontinent.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "welchvacuum.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "williamspumps.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "wittigsystems.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "yzsystems.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "zeks.com",
-        "environment": "prd"
+        "environment": "prod"
     },
     {
         "service": "public",
         "hostname": "zinsser-analytic.com",
-        "environment": "prd"
+        "environment": "prod"
     }
 ]
