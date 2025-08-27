@@ -141,6 +141,11 @@
     },
     {
         "service": "public",
+        "hostname": "gdtransportsolutions.com",
+        "environment": "prod"
+    },
+    {
+        "service": "public",
         "hostname": "ghhrand-transport.com",
         "environment": "prod"
     },
